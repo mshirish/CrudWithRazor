@@ -1,0 +1,32 @@
+﻿@page
+@model CrudWithRazor.Pages.Products.DetailsModel
+@{
+	ViewData["Title"] = "Details";
+}
+
+<h3>@ViewData["Title"]</h3>
+<hr/>
+<div class="row">
+	<div class="col-md-4">
+		
+			<div class="form-group">
+				<label asp-for="Products.ProductName" class="control-label"></label>
+				<input asp-for="Products.ProductName" class="form-control" readonly />
+				
+			</div>
+			<div class="form-group">
+				<label asp-for="Products.Price" class="control-label"></label>
+			<input type="number" asp-for="Products.Price" class="form-control" readonly />
+				
+			<div class="form-group">
+				<label asp-for="Products.Quantity" class="control-label"></label>
+				<input type="number" asp-for="Products.Quantity" class="form-control" readonly />
+				
+			</div>
+			<div class="mt-2">
+				<a class="btn btn-success" asp-page="Index">Product List</a>
+			</div>
+		
+	</div>
+
+</div>

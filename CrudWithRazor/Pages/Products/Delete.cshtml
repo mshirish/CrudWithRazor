@@ -1,0 +1,32 @@
+﻿@page
+@model DeleteModel
+@{
+	ViewData["Title"] = "Delete";
+}
+
+<h3>Are you sure you want to @ViewData["Title"]?</h3>
+<hr />
+
+<div class="row">
+	<input type="hidden" asp-for="Products.Id" />
+	<div class="col-md-4">
+		<div class="form-group">
+			<label asp-for="Products.ProductName" class="control-label"></label>
+			<input asp-for="Products.ProductName" class="form-control" readonly />
+		</div>
+		<div class="form-group">
+			<label asp-for="Products.Price" class="control-label"></label>
+			<input type="number" asp-for="Products.Price" class="form-control" readonly />
+		</div>
+		<div class="form-group">
+			<label asp-for="Products.Quantity" class="control-label"></label>
+			<input type="number" asp-for="Products.Quantity" class="form-control" readonly />
+		</div>
+		<form method="post">
+			<div class="form-group mt-2">
+				<input type="submit" value = "Delete" class="btn btn-danger"/>
+				<a class="btn btn-success" asp-page="Index">Product List</a>
+			</div>
+		</form>
+		</div>
+	</div>

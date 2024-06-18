@@ -1,0 +1,38 @@
+﻿@page
+@model CrudWithRazor.Pages.Products.CreateModel
+@{
+	ViewData["Title"] = "Create";
+}
+
+<h3>@ViewData["Title"]</h3>
+<hr/>
+<div class="row">
+	<div class="col-md-4">
+		<form method="post">
+			<div class="form-group">
+				<label asp-for="Products.ProductName" class="control-label"></label>
+				<input asp-for="Products.ProductName" class="form-control"/>
+				<span asp-validation-for = "Products.ProductName" class="text-danger"></span>
+			</div>
+			<div class="form-group">
+				<label asp-for="Products.Price" class="control-label"></label>
+				<input type="number" asp-for="Products.Price" class="form-control"/>
+				<span asp-validation-for = "Products.Price" class="text-danger"></span>
+			</div>
+			<div class="form-group">
+				<label asp-for="Products.Quantity" class="control-label"></label>
+				<input type="number" asp-for="Products.Quantity" class="form-control"/>
+				<span asp-validation-for="Products.Quantity" class="text-danger"></span>
+			</div>
+			<div class="mt-2">
+				<input type="submit" value="Create" class="btn btn-primary" />
+				<a class="btn btn-success" asp-page ="Index">Product List</a>
+			</div>
+		</form>
+	</div>
+
+</div>
+
+				@section Scripts{
+					@{await Html.RenderPartialAsync("_ValidationScriptsPartial");}
+				}

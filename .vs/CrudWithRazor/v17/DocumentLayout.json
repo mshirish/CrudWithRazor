@@ -1,0 +1,127 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Legion\\Desktop\\MyPersonal .NetProjects\\CrudWithRazor\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{7AC0E39E-3BE5-473E-8893-5B7F29044893}|CrudWithRazor\\CrudWithRazor.csproj|c:\\users\\legion\\desktop\\mypersonal .netprojects\\crudwithrazor\\crudwithrazor\\pages\\products\\create.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7AC0E39E-3BE5-473E-8893-5B7F29044893}|CrudWithRazor\\CrudWithRazor.csproj|solutionrelative:crudwithrazor\\pages\\products\\create.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7AC0E39E-3BE5-473E-8893-5B7F29044893}|CrudWithRazor\\CrudWithRazor.csproj|C:\\Users\\Legion\\Desktop\\MyPersonal .NetProjects\\CrudWithRazor\\crudwithrazor\\pages\\products\\edit.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7AC0E39E-3BE5-473E-8893-5B7F29044893}|CrudWithRazor\\CrudWithRazor.csproj|solutionrelative:crudwithrazor\\pages\\products\\edit.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7AC0E39E-3BE5-473E-8893-5B7F29044893}|CrudWithRazor\\CrudWithRazor.csproj|C:\\Users\\Legion\\Desktop\\MyPersonal .NetProjects\\CrudWithRazor\\crudwithrazor\\pages\\products\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{7AC0E39E-3BE5-473E-8893-5B7F29044893}|CrudWithRazor\\CrudWithRazor.csproj|solutionrelative:crudwithrazor\\pages\\products\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7AC0E39E-3BE5-473E-8893-5B7F29044893}|CrudWithRazor\\CrudWithRazor.csproj|C:\\Users\\Legion\\Desktop\\MyPersonal .NetProjects\\CrudWithRazor\\crudwithrazor\\pages\\products\\delete.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7AC0E39E-3BE5-473E-8893-5B7F29044893}|CrudWithRazor\\CrudWithRazor.csproj|solutionrelative:crudwithrazor\\pages\\products\\delete.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 9,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:132:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:131:0:{13b12e3e-c1b4-4539-9371-4fe9a0d523fc}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:130:0:{13b12e3e-c1b4-4539-9371-4fe9a0d523fc}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:130:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{13b12e3e-c1b4-4539-9371-4fe9a0d523fc}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Delete.cshtml.cs",
+              "DocumentMoniker": "C:\\Users\\Legion\\Desktop\\MyPersonal .NetProjects\\CrudWithRazor\\CrudWithRazor\\Pages\\Products\\Delete.cshtml.cs",
+              "RelativeDocumentMoniker": "CrudWithRazor\\Pages\\Products\\Delete.cshtml.cs",
+              "ToolTip": "C:\\Users\\Legion\\Desktop\\MyPersonal .NetProjects\\CrudWithRazor\\CrudWithRazor\\Pages\\Products\\Delete.cshtml.cs",
+              "RelativeToolTip": "CrudWithRazor\\Pages\\Products\\Delete.cshtml.cs",
+              "ViewState": "AQIAAA0AAAAAAAAAAAAQwAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-18T06:56:14.601Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Create.cshtml.cs",
+              "DocumentMoniker": "C:\\Users\\Legion\\Desktop\\MyPersonal .NetProjects\\CrudWithRazor\\CrudWithRazor\\Pages\\Products\\Create.cshtml.cs",
+              "RelativeDocumentMoniker": "CrudWithRazor\\Pages\\Products\\Create.cshtml.cs",
+              "ToolTip": "C:\\Users\\Legion\\Desktop\\MyPersonal .NetProjects\\CrudWithRazor\\CrudWithRazor\\Pages\\Products\\Create.cshtml.cs",
+              "RelativeToolTip": "CrudWithRazor\\Pages\\Products\\Create.cshtml.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-18T06:56:08.546Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Edit.cshtml.cs",
+              "DocumentMoniker": "C:\\Users\\Legion\\Desktop\\MyPersonal .NetProjects\\CrudWithRazor\\CrudWithRazor\\Pages\\Products\\Edit.cshtml.cs",
+              "RelativeDocumentMoniker": "CrudWithRazor\\Pages\\Products\\Edit.cshtml.cs",
+              "ToolTip": "C:\\Users\\Legion\\Desktop\\MyPersonal .NetProjects\\CrudWithRazor\\CrudWithRazor\\Pages\\Products\\Edit.cshtml.cs",
+              "RelativeToolTip": "CrudWithRazor\\Pages\\Products\\Edit.cshtml.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAmAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-18T06:55:29.976Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "C:\\Users\\Legion\\Desktop\\MyPersonal .NetProjects\\CrudWithRazor\\CrudWithRazor\\Pages\\Products\\Edit.cshtml",
+              "RelativeDocumentMoniker": "CrudWithRazor\\Pages\\Products\\Edit.cshtml",
+              "ToolTip": "C:\\Users\\Legion\\Desktop\\MyPersonal .NetProjects\\CrudWithRazor\\CrudWithRazor\\Pages\\Products\\Edit.cshtml",
+              "RelativeToolTip": "CrudWithRazor\\Pages\\Products\\Edit.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-18T06:55:26.745Z"
+            }
+          ]
+        },
+        {
+          "DockedWidth": 148,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
